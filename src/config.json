@@ -1,0 +1,4 @@
+{
+  "base_url": "http://localhost:3001/api/",
+  "token_key": "auth_token"
+}
